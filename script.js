@@ -1,4 +1,4 @@
-const API_KEY = "3e0532391f25450c914551c1e357a9d0";
+const API_KEY = "055b7317cc9348e2a851fc4576173549";
 const url = "https://newsapi.org/v2/everything?q=";
 
 // Jab window load ho toh 
